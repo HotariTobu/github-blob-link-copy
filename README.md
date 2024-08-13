@@ -13,7 +13,7 @@ In addition, double-copying (like double-clicking) makes the permalink.
 
 ## Install
 
-- [Chrome Web Store](https://chromewebstore.google.com/detail/github-blob-link-copy/)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/github-blob-link-copy/fmkbcbfemfgkfplpmjnajdnhkocdaaal)
 - [Firefox Browser ADD-ONS](https://addons.mozilla.org/ja/firefox/addon/github-blob-link-copy/)
 
 ## Acknowledgements
