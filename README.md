@@ -11,6 +11,8 @@ You can skip the first step if you do not need to specify any range.
 
 In addition, double-copying (like double-clicking) makes the permalink.
 
+![](./demo.gif)
+
 ## Install
 
 - [Chrome Web Store](https://chromewebstore.google.com/detail/github-blob-link-copy/fmkbcbfemfgkfplpmjnajdnhkocdaaal)
