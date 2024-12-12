@@ -20,6 +20,6 @@ In addition, double-copying (like double-clicking) makes the permalink.
 
 ## Acknowledgements
 
-- [WXR](https://wxt.dev/)
+- [WXT](https://wxt.dev/)
 - [shadcn/ui](https://ui.shadcn.com/)
 - [Iconpacks](https://www.iconpacks.net/)
